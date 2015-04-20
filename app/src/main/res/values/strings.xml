@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sikora</string>
+
+    <string name="action_settings">Ustawienia</string>
+
+    <string name="recording_activity_button">Rozpoznawanie dźwięków</string>
+    <string name="title_activity_recording">RecordingActivity</string>
+    <string name="recording_button">recording button</string>
+    <string name="recognized_bird_button">Recognized bird</string>
+
+</resources>
